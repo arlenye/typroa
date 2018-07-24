@@ -12,7 +12,7 @@ Spring之前有使用OSGI模块化，但是后来舍弃了，原因：实际依�
 
 
 
-![1532272142088](C:\Users\Arlen\AppData\Local\Temp\1532272142088.png)
+![1532272142088](1532272142088.png)
 
 NoSuchMethodException  文件系统加载的不确定性导致
 

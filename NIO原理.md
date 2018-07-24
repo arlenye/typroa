@@ -45,6 +45,30 @@ IO多路复用又称为事件驱动，操作系统提供了一个功能，当某
 1. 记录socket连接上来---selector
 2. 使连接先把road准备好-- Channel
 3. Buffer
-4. ![1532302958283](C:\Users\Arlen\AppData\Local\Temp\1532302958283.png)
+4. ![1532302958283](1532302958283.png)
+
+
+
+![1532303309986](1532303309986.png)
+
+
+
+selector  open（）
+
+ServerSocketChannel open（）  SelectorProvider.
+
+server.register
+
+![1532303630721](1532303630721.png)
+
+
+
+![1532303771519](1532303771519.png)
+
+
+
+![1532303784585](1532303784585.png)
+
+
 
 Netty

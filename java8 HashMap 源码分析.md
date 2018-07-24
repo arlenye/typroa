@@ -248,7 +248,9 @@ ConcurrentHashMap，更快更好的并发性，多个读操作几乎总可以并
 
 
 
-![1532180265101](C:\Users\Arlen\AppData\Local\Temp\1532180265101.png)
+![1532180265101](1532180265101.png)
+
+
 
 
 

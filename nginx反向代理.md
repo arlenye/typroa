@@ -50,7 +50,7 @@
 
    HTTP服务器本质上也是一种应用程序——它通常运行在服务器之上，绑定服务器的IP地址并监听某一个tcp端口来接收并处理HTTP请求，这样客户端（一般来说是IE, Firefox，Chrome这样的浏览器）就能够通过HTTP协议来获取服务器上的网页（HTML格式）、文档（PDF格式）、音频（MP4格式）、视频（MOV格式）等等资源 
 
-   ![1532220340979](C:\Users\Arlen\AppData\Local\Temp\1532220340979.png)
+   ![1532220340979](1532220340979.png)
 
    Apache Tomcat是Apache基金会下的一款开源项目，Tomcat能够动态的生成资源并返回到客户端。
 
@@ -58,7 +58,7 @@
 
    如果想要使用java程序来动态生成资源内容，使用apache server和nginx这一类的http服务器是基本做不到。而Java Servlet技术以及衍生出来的（jsp）Java Server Pages技术可以让Java程序也具有处理HTTP请求并且返回内容的能力，而Apache Tomcat正是支持运行Servlet/JSP应用程序的容器
 
-   ![1532220432810](C:\Users\Arlen\AppData\Local\Temp\1532220432810.png)
+   ![1532220432810](1532220432810.png)
 
    
 
@@ -166,7 +166,7 @@
 
    正则匹配
 
-   ![1532221111408](C:\Users\Arlen\AppData\Local\Temp\1532221111408.png)
+   ![1532221111408](1532221111408.png)
 
    ### 关于Nginx日志配置和及切割处理
 
@@ -206,7 +206,7 @@ Proxy_pass
 
 通过反向代理把请求转发到百度
 
-![1532221847074](C:\Users\Arlen\AppData\Local\Temp\1532221847074.png)
+![1532221847074](1532221847074.png)
 
 
 

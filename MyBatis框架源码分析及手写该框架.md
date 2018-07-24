@@ -155,7 +155,7 @@ lazy loading
 
 ###  Configuration  sqlSession   MapperProxy  Executor
 
-![1532159505624](C:\Users\Arlen\AppData\Local\Temp\1532159505624.png)
+![1532159505624](1532159505624.png)
 
 
 
@@ -235,9 +235,9 @@ ImportBeanDefinitionRegister   -- MapperScannerRegister  -- registerBeanDefiniti
 
 把mybatis需要的类注册进来
 
-![1532251104142](C:\Users\Arlen\AppData\Local\Temp\1532251104142.png)
+![1532251104142](1532251104142.png)
 
 
 
-![1532251115414](C:\Users\Arlen\AppData\Local\Temp\1532251115414.png)
+![1532251115414](1532251115414.png)
 
